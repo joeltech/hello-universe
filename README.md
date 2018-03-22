@@ -1,2 +1,2 @@
-# hello-universe
-Intergalactic github test
+# hello-world
+Earthly github test
